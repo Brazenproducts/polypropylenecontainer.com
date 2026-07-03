@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polypropylenecontainer.com/sitemap.xml
